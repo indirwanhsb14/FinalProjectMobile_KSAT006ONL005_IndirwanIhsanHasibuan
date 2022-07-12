@@ -22,7 +22,7 @@ Mobile.startExistingApplication(GlobalVariable.apiPackage, FailureHandling.STOP_
 
 driver = MobileDriverFactory.getDriver()
 
-WebUI.delay(10)
+Mobile.delay(10, FailureHandling.STOP_ON_FAILURE)
 
 Mobile.verifyElementVisible(findTestObject('Login-Homepage/btn_CreateAProfile'), 0)
 
@@ -70,7 +70,7 @@ Mobile.tap(findTestObject('Create Profile/setText_ConfirmPassword'), 0)
 
 Mobile.setEncryptedText(findTestObject('Create Profile/setText_ConfirmPassword'), confirmpassword, 0)
 
-WebUI.delay(10)
+Mobile.delay(10, FailureHandling.STOP_ON_FAILURE)
 
 Mobile.verifyElementVisible(findTestObject('Create Profile/btn_CreateProfile'), 0)
 

@@ -29,3 +29,4 @@ Mobile.delay(5, FailureHandling.STOP_ON_FAILURE)
 
 Mobile.tap(findTestObject('Dashboard/MenuBar/btnLi_Logout'), 0)
 
+driver.terminateApp(GlobalVariable.apiPackage)

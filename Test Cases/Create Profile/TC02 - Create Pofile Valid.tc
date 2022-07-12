@@ -5,6 +5,42 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>39d18bef-0d35-4d28-8250-67e79b35695c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a0287a73-eef5-41bb-83aa-e9050fcf2975</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>77e492d3-79cd-45ac-8855-1fa434cb462d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>985664b9-88f0-4566-bf95-009ac7216667</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7efe39ef-0e69-415a-8a79-2ed07b17f9e3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>adeeb676-5b01-4085-93c2-e006130c8863</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e657384f-64db-4b01-b900-06f81ca1009f</variableId>
+   </variableLinks>
    <variable>
       <defaultValue>'Haruno'</defaultValue>
       <description></description>
