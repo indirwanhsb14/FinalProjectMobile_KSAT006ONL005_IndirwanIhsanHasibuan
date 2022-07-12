@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 13 - Transfer Invalid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d452117a-9905-4fcb-b298-adeee02e6738</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>622695be-7385-45c9-a724-e41467ac85c9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'-50'</defaultValue>
+      <description></description>
+      <id>622695be-7385-45c9-a724-e41467ac85c9</id>
+      <masked>false</masked>
+      <name>transfer</name>
+   </variable>
+</TestCaseEntity>
