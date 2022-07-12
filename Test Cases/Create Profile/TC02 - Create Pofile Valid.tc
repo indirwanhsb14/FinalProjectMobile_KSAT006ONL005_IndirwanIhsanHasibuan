@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02 - Create Pofile Valid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>39d18bef-0d35-4d28-8250-67e79b35695c</testCaseGuid>
+   <variable>
+      <defaultValue>'Haruno'</defaultValue>
+      <description></description>
+      <id>a0287a73-eef5-41bb-83aa-e9050fcf2975</id>
+      <masked>false</masked>
+      <name>firstname</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sakura'</defaultValue>
+      <description></description>
+      <id>77e492d3-79cd-45ac-8855-1fa434cb462d</id>
+      <masked>false</masked>
+      <name>lastname</name>
+   </variable>
+   <variable>
+      <defaultValue>'Jepang'</defaultValue>
+      <description></description>
+      <id>985664b9-88f0-4566-bf95-009ac7216667</id>
+      <masked>false</masked>
+      <name>country</name>
+   </variable>
+   <variable>
+      <defaultValue>'sakura'</defaultValue>
+      <description></description>
+      <id>7efe39ef-0e69-415a-8a79-2ed07b17f9e3</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'9aoNezCXg/I='</defaultValue>
+      <description></description>
+      <id>adeeb676-5b01-4085-93c2-e006130c8863</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'9aoNezCXg/I='</defaultValue>
+      <description></description>
+      <id>e657384f-64db-4b01-b900-06f81ca1009f</id>
+      <masked>false</masked>
+      <name>confirmpassword</name>
+   </variable>
+</TestCaseEntity>

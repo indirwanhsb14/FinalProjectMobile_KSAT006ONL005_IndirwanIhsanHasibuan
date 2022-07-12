@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 06 - Transfer Valid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b70483cb-b90e-414e-92a8-17b2781e5b8a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0d78ea9e-c63f-466b-b7b0-145b3ceaa62e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'15'</defaultValue>
+      <description></description>
+      <id>0d78ea9e-c63f-466b-b7b0-145b3ceaa62e</id>
+      <masked>false</masked>
+      <name>transfer</name>
+   </variable>
+</TestCaseEntity>

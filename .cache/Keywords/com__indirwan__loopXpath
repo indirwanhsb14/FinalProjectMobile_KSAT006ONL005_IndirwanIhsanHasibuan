@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "68173C2F747A3A9F461B6DA7B3836922",
+  "keywordClasses": [
+    {
+      "name": "com.indirwan.LoopXpath",
+      "keywordMethods": [
+        {
+          "name": "getTestObjectWithXpath",
+          "parameters": [
+            {
+              "name": "xpath",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
