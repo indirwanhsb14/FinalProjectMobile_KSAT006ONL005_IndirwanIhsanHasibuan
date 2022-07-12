@@ -18,7 +18,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.callTestCase(findTestCase('Login/TC03 - Login Valid'), [('username') : 'wane', ('password') : 'f7IgQFd4qQo='], FailureHandling.STOP_ON_FAILURE)
+Mobile.callTestCase(findTestCase('Auth/TC03 - Login Valid'), [('username') : 'wane', ('password') : 'f7IgQFd4qQo='], FailureHandling.STOP_ON_FAILURE)
 
 driver = MobileDriverFactory.getDriver()
 
@@ -41,8 +41,6 @@ Mobile.verifyElementVisible(findTestObject('Payment/textView_SelectAccount'), 0)
 Mobile.verifyElementVisible(findTestObject('Payment/dropdown_Payment'), 0)
 
 Mobile.verifyElementVisible(findTestObject('Payment/textView_SelectPayee'), 0)
-
-Mobile.verifyElementVisible(findTestObject('Payment/textView_infoPayee'), 0)
 
 Mobile.verifyElementVisible(findTestObject('Payment/imgbtn_AddPayee'), 0)
 
