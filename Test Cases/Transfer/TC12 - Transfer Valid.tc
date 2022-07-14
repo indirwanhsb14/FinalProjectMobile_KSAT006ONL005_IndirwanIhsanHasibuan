@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC08 - Make Payment</name>
+   <name>TC12 - Transfer Valid</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>9ba24231-ada6-46c7-a08e-c217a7c7b641</testCaseGuid>
+   <testCaseGuid>b70483cb-b90e-414e-92a8-17b2781e5b8a</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>fce059e0-1739-4de0-8a6b-53c3b6fa6629</variableId>
+      <variableId>0d78ea9e-c63f-466b-b7b0-145b3ceaa62e</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>100</defaultValue>
+      <defaultValue>'15'</defaultValue>
       <description></description>
-      <id>fce059e0-1739-4de0-8a6b-53c3b6fa6629</id>
+      <id>0d78ea9e-c63f-466b-b7b0-145b3ceaa62e</id>
       <masked>false</masked>
-      <name>amount</name>
+      <name>transfer</name>
    </variable>
 </TestCaseEntity>

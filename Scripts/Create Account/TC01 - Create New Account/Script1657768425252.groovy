@@ -19,7 +19,7 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 import com.indirwan.LoopXpath as loopXpath
 
-Mobile.callTestCase(findTestCase('Auth/TC03 - Login Valid'), [('username') : 'wane', ('password') : 'f7IgQFd4qQo='], FailureHandling.STOP_ON_FAILURE)
+Mobile.callTestCase(findTestCase('Auth/TC04 - Login Valid'), [('username') : 'wane', ('password') : 'f7IgQFd4qQo='], FailureHandling.STOP_ON_FAILURE)
 
 driver = MobileDriverFactory.getDriver()
 

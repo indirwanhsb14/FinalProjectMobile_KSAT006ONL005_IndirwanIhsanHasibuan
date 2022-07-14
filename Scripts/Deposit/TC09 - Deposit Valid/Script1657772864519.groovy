@@ -18,7 +18,8 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.callTestCase(findTestCase('Auth/TC03 - Login Valid'), [('username') : 'wane', ('password') : 'f7IgQFd4qQo='], FailureHandling.STOP_ON_FAILURE)
+Mobile.callTestCase(findTestCase('Auth/TC05 - Login Valid 2'), [('username') : 'kale', ('password') : '4j5Q3BbpYYE='], 
+    FailureHandling.STOP_ON_FAILURE)
 
 driver = MobileDriverFactory.getDriver()
 
@@ -30,40 +31,37 @@ Mobile.verifyElementVisible(findTestObject('Dashboard/imgbtn_MenuBar'), 0)
 
 Mobile.tap(findTestObject('Dashboard/imgbtn_MenuBar'), 0)
 
-Mobile.verifyElementVisible(findTestObject('Dashboard/MenuBar/btnLi_Make-a-Transfer'), 0)
+Mobile.verifyElementVisible(findTestObject('Dashboard/MenuBar/btnLi_Make-a-Deposit'), 0)
 
-Mobile.tap(findTestObject('Dashboard/MenuBar/btnLi_Make-a-Transfer'), 0)
+Mobile.tap(findTestObject('Dashboard/MenuBar/btnLi_Make-a-Deposit'), 0)
 
-Mobile.verifyElementVisible(findTestObject('Transfer/textView_Transfer'), 0)
+Mobile.verifyElementVisible(findTestObject('Deposit/btn_Add'), 0)
 
-Mobile.verifyElementVisible(findTestObject('Transfer/textView_SelectSending'), 0)
+Mobile.verifyElementVisible(findTestObject('Deposit/dropdown_deposit'), 0)
 
-Mobile.verifyElementVisible(findTestObject('Transfer/dropdown'), 0)
+Mobile.verifyElementVisible(findTestObject('Deposit/textView_Deposit'), 0)
 
-Mobile.tap(findTestObject('Transfer/dropdown'), 0)
+Mobile.tap(findTestObject('Deposit/dropdown_deposit'), 0)
 
-Mobile.verifyElementVisible(findTestObject('Transfer/dropdown_Li1'), 0)
+Mobile.verifyElementVisible(findTestObject('Deposit/dropdown_Li1'), 0)
 
-Mobile.tap(findTestObject('Transfer/dropdown_Li1'), 0)
+Mobile.tap(findTestObject('Deposit/dropdown_Li1'), 0)
 
-Mobile.verifyElementVisible(findTestObject('Transfer/setText_TransferAmount'), 0)
+Mobile.verifyElementVisible(findTestObject('Deposit/setText_EnterDeposit'), 0)
 
-Mobile.tap(findTestObject('Transfer/setText_TransferAmount'), 0)
+Mobile.tap(findTestObject('Deposit/setText_EnterDeposit'), 0)
 
-Mobile.setText(findTestObject('Transfer/setText_TransferAmount'), transfer, 0)
+Mobile.setText(findTestObject('Deposit/setText_EnterDeposit'), deposit, 0)
 
-Mobile.verifyElementVisible(findTestObject('Transfer/textView_SelectReceiving'), 0)
+Mobile.verifyElementVisible(findTestObject('Deposit/btn_Cancel'), 0)
 
-Mobile.verifyElementVisible(findTestObject('Transfer/dropdown2'), 0)
+Mobile.verifyElementVisible(findTestObject('Deposit/btn_Add'), 0)
 
-Mobile.tap(findTestObject('Transfer/dropdown2'), 0)
+Mobile.tap(findTestObject('Deposit/btn_Add'), 0)
 
-Mobile.verifyElementVisible(findTestObject('Transfer/dropdown2_Li2'), 0)
+Mobile.verifyElementVisible(findTestObject('Accounts/textView_Accounts'), 0)
 
-Mobile.tap(findTestObject('Transfer/dropdown2_Li2'), 0)
-
-Mobile.verifyElementVisible(findTestObject('Transfer/btn_ConfirmTransfer'), 0)
-
-Mobile.tap(findTestObject('Transfer/btn_ConfirmTransfer'), 0)
+Mobile.verifyElementVisible(findTestObject('Accounts/viewText_AccountBalance'), 0)
 
 driver.terminateApp(GlobalVariable.apiPackage)
+

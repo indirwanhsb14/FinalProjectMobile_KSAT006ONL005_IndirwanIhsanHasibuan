@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC11 - Login Invalid with wrong password</name>
+   <name>TC05 - Login Valid 2</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>4b4883e6-8aa0-40d8-baa2-98d70b2409de</testCaseGuid>
+   <testCaseGuid>7ddbaebe-a3a7-4d1d-a8d1-a28820e29b90</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>9de3fb63-8e3c-4d3d-9982-1a58d919a7f4</variableId>
+      <variableId>c3ab326e-682e-44c7-ac71-1e976263ce23</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>e7d96feb-a125-493d-9c99-9774a134d283</variableId>
+      <variableId>a143f9bd-123b-44ed-8984-6a4a5807660a</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>'wane'</defaultValue>
+      <defaultValue>'kale'</defaultValue>
       <description></description>
-      <id>9de3fb63-8e3c-4d3d-9982-1a58d919a7f4</id>
+      <id>c3ab326e-682e-44c7-ac71-1e976263ce23</id>
       <masked>false</masked>
       <name>username</name>
    </variable>
    <variable>
-      <defaultValue>'3bJJruJpK1I='</defaultValue>
+      <defaultValue>'4j5Q3BbpYYE='</defaultValue>
       <description></description>
-      <id>e7d96feb-a125-493d-9c99-9774a134d283</id>
+      <id>a143f9bd-123b-44ed-8984-6a4a5807660a</id>
       <masked>false</masked>
       <name>password</name>
    </variable>

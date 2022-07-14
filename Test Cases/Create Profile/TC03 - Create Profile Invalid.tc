@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC02 - Create Pofile Valid</name>
+   <name>TC03 - Create Profile Invalid</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>39d18bef-0d35-4d28-8250-67e79b35695c</testCaseGuid>
@@ -77,7 +77,7 @@
       <name>password</name>
    </variable>
    <variable>
-      <defaultValue>'9aoNezCXg/I='</defaultValue>
+      <defaultValue>'G6RdDyQhtHbbl29DZsGnwQ=='</defaultValue>
       <description></description>
       <id>e657384f-64db-4b01-b900-06f81ca1009f</id>
       <masked>false</masked>

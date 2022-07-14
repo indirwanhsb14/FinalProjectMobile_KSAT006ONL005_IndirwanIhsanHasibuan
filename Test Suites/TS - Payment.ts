@@ -15,14 +15,14 @@
       <guid>fd6ea030-6b76-42d5-87da-453bb41b2cea</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Payment/TC05 - Add a Payment</testCaseId>
+      <testCaseId>Test Cases/Payment/TC10 - Add a Payment</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>e6d08b59-4ee7-4f56-8c1e-c3a0d8e38156</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Payment/TC08 - Make Payment</testCaseId>
+      <testCaseId>Test Cases/Payment/TC11 - Make Payment</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>

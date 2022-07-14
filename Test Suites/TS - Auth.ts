@@ -15,7 +15,7 @@
       <guid>d3659cf3-3e49-4d75-83d0-de8c156212dd</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Auth/TC03 - Login Valid</testCaseId>
+      <testCaseId>Test Cases/Auth/TC04 - Login Valid</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -34,7 +34,7 @@
       <guid>2e3cdd21-e91a-4034-927f-370de139dadc</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Auth/TC09 - Login Valid 2</testCaseId>
+      <testCaseId>Test Cases/Auth/TC05 - Login Valid 2</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -53,14 +53,14 @@
       <guid>fc120abc-98c0-4237-a782-37833acdf6b7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Auth/TC10 - Logout</testCaseId>
+      <testCaseId>Test Cases/Auth/TC08 - Logout</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>752b62f4-24c2-4c34-81a6-01f7096db11c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Auth/TC11 - Login Invalid with wrong password</testCaseId>
+      <testCaseId>Test Cases/Auth/TC07 - Login Invalid with wrong password</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>

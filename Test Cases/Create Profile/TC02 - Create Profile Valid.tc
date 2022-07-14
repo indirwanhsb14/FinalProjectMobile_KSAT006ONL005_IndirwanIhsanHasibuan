@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC01 - Create Profile Valid</name>
+   <name>TC02 - Create Profile Valid</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>2db6eade-d439-45cd-ac64-7ad6aaf65086</testCaseGuid>

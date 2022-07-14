@@ -15,7 +15,7 @@
       <guid>35a2528c-7f71-4054-8348-ac9195077533</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Create Profile/TC01 - Create Profile Valid</testCaseId>
+      <testCaseId>Test Cases/Create Profile/TC02 - Create Profile Valid</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -58,7 +58,7 @@
       <guid>83293813-cca7-48cd-bbd9-64705a8e49d8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Create Profile/TC02 - Create Pofile Valid</testCaseId>
+      <testCaseId>Test Cases/Create Profile/TC03 - Create Profile Invalid</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC 06 - Transfer Valid</name>
+   <name>TC09 - Deposit Valid</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>b70483cb-b90e-414e-92a8-17b2781e5b8a</testCaseGuid>
+   <testCaseGuid>3936663e-a82c-4cb2-b57b-50424f1a50f5</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>0d78ea9e-c63f-466b-b7b0-145b3ceaa62e</variableId>
+      <variableId>6e9c28dd-39aa-4005-aeb7-7049851c2226</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>'15'</defaultValue>
+      <defaultValue>'500'</defaultValue>
       <description></description>
-      <id>0d78ea9e-c63f-466b-b7b0-145b3ceaa62e</id>
+      <id>6e9c28dd-39aa-4005-aeb7-7049851c2226</id>
       <masked>false</masked>
-      <name>transfer</name>
+      <name>deposit</name>
    </variable>
 </TestCaseEntity>

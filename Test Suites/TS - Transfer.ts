@@ -15,7 +15,7 @@
       <guid>e8cba422-fceb-47c0-beab-83d8295a563d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Transfer/TC 06 - Transfer Valid</testCaseId>
+      <testCaseId>Test Cases/Transfer/TC12 - Transfer Valid</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>

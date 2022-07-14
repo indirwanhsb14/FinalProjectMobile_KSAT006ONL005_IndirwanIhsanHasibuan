@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC07 - Deposit Valid</name>
+   <name>TC11 - Make Payment</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>3936663e-a82c-4cb2-b57b-50424f1a50f5</testCaseGuid>
+   <testCaseGuid>9ba24231-ada6-46c7-a08e-c217a7c7b641</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>6e9c28dd-39aa-4005-aeb7-7049851c2226</variableId>
+      <variableId>fce059e0-1739-4de0-8a6b-53c3b6fa6629</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>'1500'</defaultValue>
+      <defaultValue>100</defaultValue>
       <description></description>
-      <id>6e9c28dd-39aa-4005-aeb7-7049851c2226</id>
+      <id>fce059e0-1739-4de0-8a6b-53c3b6fa6629</id>
       <masked>false</masked>
-      <name>deposit</name>
+      <name>amount</name>
    </variable>
 </TestCaseEntity>

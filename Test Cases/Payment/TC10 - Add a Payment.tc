@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC05 - Add a Payment</name>
+   <name>TC10 - Add a Payment</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>f73d79b9-587b-4b79-8ab6-c2efb7799ceb</testCaseGuid>
